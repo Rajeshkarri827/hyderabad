@@ -1,0 +1,74 @@
+h1{
+    background-color: black;
+    top:5px;
+    text-align: center;
+    font-size: 50px;
+    color: grey;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    color:black;
+    clear:right;
+}
+img{
+    float:left;
+    border-radius: 50%;
+    height: 400px;
+    width:500px;
+}
+
+.char{
+    border:1px solid black;
+    margin:50px;
+    height:400px;
+   
+
+
+}
+.golconda{
+    border: 1px solid black;
+    margin:50px;
+    height:400px;
+    
+}
+.img2{
+    float:right;
+    border-radius: 50%;
+    height:400px;
+    width:500px;
+
+}
+.p2{
+    text-align: center;
+    font-size: 25px;
+    color:black;
+    clear:left;
+
+}
+*{
+    background-color: bisque;
+}
+.hussainsagar{
+    border: 1px solid black;
+    margin:50px;
+    height:400px;
+}
+.hussain{
+    float:left;
+    border-radius: 50%;
+    height:400px;
+    width:500px;
+
+}
+.nav a{
+    margin:80px;
+    text-decoration: none;
+    color:grey;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.nav{
+    text-align: center;
+}
